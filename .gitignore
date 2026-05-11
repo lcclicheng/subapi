@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.spec
+tank_battle_config.json
